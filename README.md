@@ -46,6 +46,10 @@ Tambahkan gambar pribadi Anda ke entri terjemahan.
 Berikut adalah kosakata Anda, perkaya kosakata untuk meningkatkan pemahaman bahasa asing Anda
 ![Tinjau Riwayat](https://github.com/user-attachments/assets/b37385eb-968d-4db0-91b3-33f335d1785b)
 
+Anda juga dapat mendengarkan audio dari kalimat Anda, sesuai dengan bahasa yang Anda masukkan
+![Tinjau Riwayat](https://github.com/user-attachments/assets/b37385eb-968d-4db0-91b3-33f335d1785b)
+
+
 
 **6. Statistik Pembelajaran**
 Visualisasikan kemajuan dan data pembelajaran Anda.
