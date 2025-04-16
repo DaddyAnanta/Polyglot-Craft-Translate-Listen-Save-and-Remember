@@ -30,7 +30,6 @@ Masukkan teks, pilih bahasa, dan dapatkan hasil terjemahan. Anda dapat menghasil
 
 **2. Tinjau & Kelola Riwayat**
 Lihat kembali terjemahan sebelumnya dan hapus jika ada kesalahan.
-![Tinjau Riwayat](https://github.com/user-attachments/assets/b37385eb-968d-4db0-91b3-33f335d1785b)
 ![Kelola Riwayat](https://github.com/user-attachments/assets/d911be0b-745a-4854-a44b-1dbe774ee8db)
 
 **3. Hasilkan Gambar dengan AI (FLUX.1 [schnell])**
@@ -42,7 +41,13 @@ Buat visualisasi untuk teks terjemahan Anda secara otomatis.
 Tambahkan gambar pribadi Anda ke entri terjemahan.
 ![Upload Gambar](https://github.com/user-attachments/assets/1008e52a-13ab-4474-b5d9-969f035341ed)
 
-**5. Statistik Pembelajaran**
+**5. Hasil Output dari Terjemahan**
+
+Berikut adalah kosakata Anda, perkaya kosakata untuk meningkatkan pemahaman bahasa asing Anda
+![Tinjau Riwayat](https://github.com/user-attachments/assets/b37385eb-968d-4db0-91b3-33f335d1785b)
+
+
+**6. Statistik Pembelajaran**
 Visualisasikan kemajuan dan data pembelajaran Anda.
 ![Statistik 1](https://github.com/user-attachments/assets/0ac486be-b822-439e-b512-1459941be00d)
 ![Statistik 2](https://github.com/user-attachments/assets/0c63594c-aa33-4ecf-a093-83bbbda519b3)
