@@ -36,9 +36,20 @@ Anda juga dapat menghapus bila ada kesalah ditemukan
 ![halaman 5 preview](https://github.com/user-attachments/assets/0ac486be-b822-439e-b512-1459941be00d)
 ![halaman 5 preview 2](https://github.com/user-attachments/assets/0c63594c-aa33-4ecf-a093-83bbbda519b3)
 
-# Bagimana memulainya di destop Anda?
+---
 
-Anda Hanya perlu mengubah file "secrets.toml" di folder bernama ".streamlit" dengan API Deepseek R3 Anda sendiri yang didapat dari https://openrouter.ai/. 
+# Bagimana memulainya di destop Anda?
+Aplikasi ini memungkinkan pengguna melakukan analisis teks, visualisasi data, dan mengakses AI menggunakan Streamlit dan berbagai library NLP.
+
+
+## Cara Menjalankan
+
+1. Clone repositori ini
+2. Install dependensi: pip install -r requirements.txt
+
+3. Ubah file "secrets.toml" di folder bernama ".streamlit" dengan API Deepseek R3 Anda sendiri yang didapat dari https://openrouter.ai/.
+
+---
 
 ## Selamat Mencoba
 
