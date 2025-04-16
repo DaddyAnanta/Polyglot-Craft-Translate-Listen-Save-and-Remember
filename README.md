@@ -1,7 +1,13 @@
-![Python](https://img.shields.io/badge/python-3.9+-blue)
+# 📊 Aplikasi Analisis Teks dengan Streamlit & AI
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.44.0-brightgreen)
+![NLTK](https://img.shields.io/badge/NLTK-3.8.1-yellow)
+![Pandas](https://img.shields.io/badge/Pandas-2.2.3-lightgrey)
+![Plotly](https://img.shields.io/badge/Plotly-5.19.0-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Last Commit](https://img.shields.io/github/last-commit/username/repo-name)
+
 
 
 # Streamlit App Preview:
