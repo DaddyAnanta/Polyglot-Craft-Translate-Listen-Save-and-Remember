@@ -7,6 +7,7 @@
 [![Plotly](https://img.shields.io/badge/Plotly-5.19.0-orange)](https://plotly.com/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE) 
 [![Last Commit](https://img.shields.io/github/last-commit/[YourUsername]/[YourRepoName])](https://github.com/[YourUsername]/[YourRepoName]/commits/main) 
+
 Aplikasi ini memanfaatkan kekuatan AI untuk menerjemahkan teks dan membantu Anda memperkaya kosakata melalui fitur review, visualisasi dengan gambar, dan pelacakan statistik pembelajaran. Dibangun dengan Streamlit untuk antarmuka yang interaktif dan mudah digunakan.
 
 ## ✨ Fitur Utama
