@@ -1,0 +1,14 @@
+streamlit==1.44.0
+gTTS==2.5.4
+gradio-client==1.8.0
+pandas==2.2.3
+numpy==2.2.0
+google-generativeai==0.3.1
+langchain==0.3.23
+Pillow==11.2.0
+requests==2.32.3
+matplotlib==3.10.1
+plotly==5.19.0
+wordcloud==1.9.3
+nltk==3.8.1
+streamlit-extras==0.5.0
