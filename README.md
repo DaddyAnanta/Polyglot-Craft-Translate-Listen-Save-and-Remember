@@ -72,10 +72,9 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di mesin Anda:
 
 2.  **Clone Repositori:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/[YourRepoName].git
-    cd [YourRepoName]
+    git clone https://github.com/DaddyAnanta/Polyglot-Craft-Translate-Listen-Save-and-Remember.git
+    cd Polyglot-Craft-Translate-Listen-Save-and-Remember
     ```
-    *(Ganti `[YourUsername]/[YourRepoName]` dengan URL repositori Anda)*
 
 3.  **Install Dependensi:**
     ```bash
