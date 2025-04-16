@@ -13,6 +13,14 @@ Di sini Anda dapat melihat hasil dari terjemahan Anda yang bisa Anda baca dan ul
 
 ![halaman 2 preview](https://github.com/user-attachments/assets/1a77b791-ac5b-4574-8c89-3b481db0bb6c)
 
+Berikut hasilnya, terjemahan telah selesai. Anda dapat melakukan generate sampai hasilnya sesuai menurut Anda.
+
+![halaman 2 prevew 3](https://github.com/user-attachments/assets/b3cedee5-9915-4d98-8fc0-d89ac185d41c)
+
+
+
+Anda juga dapat menghapus bila ada kesalah ditemukan
+
 ![halaman 2 preview 2](https://github.com/user-attachments/assets/d911be0b-745a-4854-a44b-1dbe774ee8db)
 
 # Generate Image dengan (FLUX.1 [schnell]) 
