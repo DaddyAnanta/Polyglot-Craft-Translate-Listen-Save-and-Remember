@@ -1,4 +1,7 @@
-
+![Python](https://img.shields.io/badge/python-3.9+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.44.0-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/username/repo-name)
 
 
 # Streamlit App Preview:
