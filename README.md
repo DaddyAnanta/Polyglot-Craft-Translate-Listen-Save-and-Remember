@@ -1,4 +1,4 @@
-# 📊 Aplikasi Analisis Teks dengan Streamlit & AI
+# 📊 Aplikasi Terjemahan Teks dengan Streamlit & AI
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.44.0-brightgreen)
